@@ -5,23 +5,23 @@ Welcome to the Pie Shop Website project! This repository is dedicated to creatin
 Our goal is to design a user-friendly website for a pie shop that captures the essence of delectable pies, making it an enticing virtual destination for pie lovers. This project provides an excellent platform to experiment with HTML and related technologies while building a professional web presence for our fictional pie shop.
 
 ## Key Features
-### Responsive Design: Craft a responsive layout to ensure the website looks great on various devices, from desktops to smartphones.
+Responsive Design: Craft a responsive layout to ensure the website looks great on various devices, from desktops to smartphones.
 
-### Menu Showcase: Feature a mouthwatering menu with detailed descriptions, images, and prices of the various pie offerings.
+Menu Showcase: Feature a mouthwatering menu with detailed descriptions, images, and prices of the various pie offerings.
 
-### Ordering System: Develop an intuitive order form that allows customers to select their favorite pies, specify quantities, and add them to a cart.
+Ordering System: Develop an intuitive order form that allows customers to select their favorite pies, specify quantities, and add them to a cart.
 
-### Contact Information: Provide accurate contact details, location information, and working hours to assist customers in finding the pie shop.
+Contact Information: Provide accurate contact details, location information, and working hours to assist customers in finding the pie shop.
 
-### About Us Page: Share the pie shop's story, including its history, values, and commitment to delivering the best pies.
+About Us Page: Share the pie shop's story, including its history, values, and commitment to delivering the best pies.
 
-### Image Gallery: Create an enticing image gallery displaying beautifully baked pies in all their delicious glory.
+Image Gallery: Create an enticing image gallery displaying beautifully baked pies in all their delicious glory.
 
-### Customer Reviews: Implement a section for customers to leave reviews and read about others' experiences with the pies.
+Customer Reviews: Implement a section for customers to leave reviews and read about others' experiences with the pies.
 
-### Interactive Elements: Add interactive elements such as smooth scrolling, image sliders, and hover effects to enhance the website's interactivity and visual appeal.
+Interactive Elements: Add interactive elements such as smooth scrolling, image sliders, and hover effects to enhance the website's interactivity and visual appeal.
 
-### Footer: Include a footer with links to the pie shop's social media profiles and other relevant pages.
+Footer: Include a footer with links to the pie shop's social media profiles and other relevant pages.
 
 ## Technologies
 HTML: For building the website's structure and content.
